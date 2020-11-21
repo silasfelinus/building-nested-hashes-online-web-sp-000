@@ -1,4 +1,4 @@
-def fitrst_challenge
+def first_challenge
   epic_tragedy = {
   :montague => {},
   :capulet => {}
