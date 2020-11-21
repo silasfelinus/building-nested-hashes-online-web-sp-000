@@ -1,4 +1,4 @@
-def fitrst_checllenge
+def fitrst_challenge
   epic_tragedy = {
   :montague => {},
   :capulet => {}
